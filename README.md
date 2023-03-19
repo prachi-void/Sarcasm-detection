@@ -31,16 +31,16 @@ https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detect
 
 ## Code
 
-The main code is present in 34.ipynb where data loading, preprocessing, model training and GUI programming etc tasks are performed.
+The main code is present in Sarcasm is very easy to detect GloVe+LSTM.ipynb where data loading, preprocessing, model training and GUI programming etc tasks are performed.
 
 ## Run
 
 In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
 
-ipython notebook 34.ipynb
+ipython notebook Sarcasm is very easy to detect GloVe+LSTM.ipynb
 or
 
-jupyter notebook 34.ipynb
+jupyter notebook Sarcasm is very easy to detect GloVe+LSTM.ipynb
 or open with Jupyter Lab
 
 jupyter Lab
